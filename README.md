@@ -17,7 +17,7 @@ I am familiar with different front-end tools like,
 - Bootstrap
 - Rest APIs
 ---
-Few more things
+Few more things,
 - 🔭 I’m currently working on a recipe database project
 - 🌱 I’m currently learning React
 - 💬 Ask me about javascript
