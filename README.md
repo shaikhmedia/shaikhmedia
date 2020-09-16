@@ -10,5 +10,3 @@ Few things,
 - 🌱 I’m currently learning React
 - 💬 Ask me about javascript
 - 📫 How to reach me: [Twitter](https://twitter.com/shaikh_media)
-
-[![Alamin's github stats](https://github-readme-stats.vercel.app/api?username=shaikhmedia)]
