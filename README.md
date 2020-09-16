@@ -11,7 +11,7 @@ Design pattern I use is,
 Version control system I use is,
 - Git
 ---
-I am familiar with different front-end tools like,
+Frontend tools I am familiar with are,
 - Webpack
 - Babel
 - Bootstrap
