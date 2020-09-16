@@ -1,10 +1,11 @@
 ### Hi there, I am Alamin Shaikh!
 
-### My Stacks are,
+My Stacks are,
 - HTML
 - CSS
 - JavaScript
 
+Few things,
 - 🔭 I’m currently working on a recipe database project
 - 🌱 I’m currently learning React
 - 💬 Ask me about javascript
