@@ -1,4 +1,4 @@
-### Hi there, I am Alamin Shaikh!
+### Hi there, I am Alamin!
 
 My Stacks are,
 - HTML
@@ -11,4 +11,4 @@ Few things,
 - 💬 Ask me about javascript
 - 📫 How to reach me: twitter @shaikh_media
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shaikhmedia)](https://github.com/anuraghazra/github-readme-stats)
+[![Alamin's github stats](https://github-readme-stats.vercel.app/api?username=shaikhmedia)]
