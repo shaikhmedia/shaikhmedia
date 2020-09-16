@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alamin!
 
-My Stacks are,
+My Stacks are ⚡,
 - HTML
 - CSS
 - JavaScript
@@ -11,7 +11,7 @@ Design pattern I use is,
 Version control system I use is,
 - Git
 ---
-Frontend tools I am familiar with are,
+Frontend tools ⛏ I am familiar with are ,
 - Webpack
 - Babel
 - Bootstrap
