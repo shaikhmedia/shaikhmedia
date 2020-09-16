@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alamin!
 
-My Stacks are ⚡,
+My Stacks ⚡ are,
 - HTML
 - CSS
 - JavaScript
