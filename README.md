@@ -8,9 +8,6 @@ My Stacks ⚡ are,
 Design pattern I use is,
 - MVC (Model, View, Controller)
 ---
-Version control system I use is,
-- Git
----
 Frontend tools ⛏ I am familiar with are ,
 - Webpack
 - Babel
