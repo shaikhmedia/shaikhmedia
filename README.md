@@ -1,4 +1,4 @@
-### Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif, I am Alamin Shaikh!
+### Hi there, I am Alamin Shaikh!
 
 - 🔭 I’m currently working on a recipe database project
 - 🌱 I’m currently learning React
