@@ -5,16 +5,16 @@ My Stacks ⚡ are,
 - CSS
 - JavaScript
 ---
-Design pattern I use is,
+Design pattern I use,
 - MVC (Model, View, Controller)
 ---
-Frontend tools ⛏ I am familiar with are ,
+Frontend tools ⛏ I am familiar with,
 - Webpack
 - Babel
 - Bootstrap
 - Rest APIs
 ---
-Few more things,
+Few other things,
 - 🔭 I’m currently working on a recipe database project
 - 🌱 I’m currently learning React
 - 💬 Ask me about javascript
