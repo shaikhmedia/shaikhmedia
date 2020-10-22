@@ -4,9 +4,7 @@ My Stacks ⚡ are,
 - HTML
 - CSS
 - JavaScript
----
-Design pattern I use,
-- MVC (Model, View, Controller)
+- React
 ---
 Frontend tools ⛏ I am familiar with,
 - Webpack
@@ -15,7 +13,7 @@ Frontend tools ⛏ I am familiar with,
 - Rest APIs
 ---
 Few other things,
-- 🔭 I’m currently working on a recipe database project
+- 🔭 I’m currently working on a burger builder project
 - 🌱 I’m currently learning React
 - 💬 Ask me about javascript
 - 📫 How to reach me: [Twitter](https://twitter.com/shaikh_media)
